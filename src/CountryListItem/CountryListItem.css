@@ -1,0 +1,18 @@
+.item-continer{
+    height: 5rem;
+    box-shadow: 1px 2px #00000029;
+    border-radius: 4px;
+    padding: 8px;
+    margin-top: 2px!important;
+    text-align: center;
+    background-color:white ;
+}
+
+.item-continer:hover{
+    background-color: rgb(70, 36, 234);
+    color: white;
+}
+
+.country-flag{
+    font-size: xx-large;
+}

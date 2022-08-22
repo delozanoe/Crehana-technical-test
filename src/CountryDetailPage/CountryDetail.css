@@ -1,0 +1,51 @@
+.info-container{
+    box-shadow: 1px 0px 10px 4px #00000029;
+    border-radius: 4px;
+    background-color: white;
+    margin: 6px;
+    padding: 8px;
+}
+.info-container>p{
+    text-align: left;
+    font-size: 1.5rem;
+}
+.info-container>h2{
+margin: 0px!important;
+    font-size: 2.5rem;
+}
+.general-margin{
+    padding: 8px;
+}
+.title-container{
+    margin: 8px;
+    box-shadow: 1px 0px 10px 4px #00000029;
+    border-radius: 4px;
+    background-color: white;
+    color: rgb(70, 36, 234);
+}
+.emoji-detail{
+    font-size: 10rem;
+    margin: 0px!important;
+}
+div h1{
+    margin: 0px!important;
+    font-size: 4rem;
+}
+
+.gray-background{
+    background-color: #F3F3F3;
+    height: 90vh;
+}
+
+div{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+
+}
+
+div.margin-info{
+    margin: 0!important;
+}
+.fixed-icon{
+    position: absolute;
+    margin: 4px;
+}
